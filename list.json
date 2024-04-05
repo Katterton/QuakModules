@@ -1,4 +1,5 @@
 
      [
-        {"name":"Article","url":"https://api.github.com/repos/Katterton/modules/contents/Article","description":"Article with Comments" }
+        {"name":"Article","url":"https://api.github.com/repos/Katterton/modules/contents/Article","description":"Article with Comments" },
+          {"name":"Grid","url":"https://api.github.com/repos/Katterton/modules/contents/Grid","description":"Grid" }
     ]
